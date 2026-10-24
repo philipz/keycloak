@@ -1,0 +1,46 @@
+specs/quint/README.md
+  s_3618713c4da7b8::t_a0f357f965edfe 1-33
+specs/lean/Specs/Proofs.lean
+  s_3618713c4da7b8::t_52a7ffc903d804 2-112
+  s_3618713c4da7b8::t_0443b2752f219c 1
+specs/quint/keycloak_tokens.qnt
+  s_3618713c4da7b8::t_962ba8cd62d87d 197-200
+  s_3618713c4da7b8::t_a2e5f275d08709 1-123,125-196,201-211,213-219,221-225,229-263,268-269,273-276,279-284,286-305,310-311,313-323,326-328,330-331,333-345,353,355-357,359-404,408-417,430-434,436-440,442-446,448-452,454-459,461-467,469-539,547-578
+  s_3618713c4da7b8::t_f4353101599e09 124,212,220,226-228,264-267,270-272,277-278,285,306-309,312,324-325,329,332,349-352,354,358,460,468
+  s_3618713c4da7b8::t_e9cfd2db508278 346
+  s_3618713c4da7b8::t_23ae968cca93a9 405-407,418-429,435,441,447,453
+  s_3618713c4da7b8::t_af9cb6ac18f940 347-348,540-546
+specs/lean/Specs/Model.lean
+  s_3618713c4da7b8::t_2ed442cabcbb6d 1-458
+specs/quint/REPORT.md
+  s_3618713c4da7b8::t_a178c45c852a5c 1-241
+specs/quint/keycloak_tokens_instances.qnt
+  s_3618713c4da7b8::t_962ba8cd62d87d 53-62
+  s_3618713c4da7b8::t_12771d7bc8135a 1-52
+specs/quint/keycloak_tokens_test.qnt
+  s_3618713c4da7b8::t_c38f8a19a7d234 1-104
+specs/lean/RULES.md
+  s_3618713c4da7b8::t_83b4cc59bcbbc3 1-98
+specs/lean/.gitignore
+  s_3618713c4da7b8::t_b56320d40a7e91 1
+specs/lean/lakefile.toml
+  s_3618713c4da7b8::t_07481c86154d9d 1-7
+specs/lean/lean-toolchain
+  s_3618713c4da7b8::t_80ce7072d2dc3e 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6dc93ee8c7515d023b0ac73858b0f8f122a9bc05",
+  "prompts": {},
+  "sessions": {
+    "s_3618713c4da7b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eabc093f-9f23-4b12-9ab8-dfc6b09f99f6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "philipz <philipzheng@gmail.com>"
+    }
+  }
+}
